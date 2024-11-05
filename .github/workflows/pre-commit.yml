@@ -1,4 +1,3 @@
-# .github/workflows/pre-commit.yml
 name: Pre-Commit Checks
 
 # Define the trigger event
